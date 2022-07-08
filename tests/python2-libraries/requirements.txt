@@ -179,7 +179,7 @@ sqlalchemy==1.2.11
 sqlparse==0.2.4
 statsd==3.3.0
 stevedore==1.29.0
-suds==0.4
+suds==1.0.0
 supervisor==3.3.4
 testrepository==0.0.20
 testtools==2.3.0
